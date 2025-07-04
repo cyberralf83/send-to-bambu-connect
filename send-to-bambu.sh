@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#add the following line to /Users/michael/Desktop/Current\ Models/send-to-bambu.sh "$OUTPUT_FILE"
+#add the following line to /path-to-file/send-to-bambu.sh "$OUTPUT_FILE"
 
 # Get the full file path from Orca
 FILE_PATH="$1"
