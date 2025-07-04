@@ -9,6 +9,6 @@ In Orca Slicer–> Process Panel –> Others-> Post-processing scripts:
 
 Make it exicutible
 
-    chmod +x /Users/you/pathtoscript/send-to-bambu.sh
+    chmod +x /Users/your-path-to-script/send-to-bambu.sh
 
 Slice model and Bambu Connect should open automatically.
