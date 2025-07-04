@@ -5,7 +5,7 @@ I found that a bit clunky, so I wrote a small **post-processing script** that 
 
 In Orca Slicer–> Process Panel –> Others-> Post-processing scripts:
 
-    /Users/you/pathtoscript/send-to-bambu.sh "$OUTPUT_FILE"
+    /Users/your-path-to-script/send-to-bambu.sh "$OUTPUT_FILE"
 
 Make it exicutible
 
