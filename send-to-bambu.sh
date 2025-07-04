@@ -1,6 +1,7 @@
 #!/bin/bash
 
-#add the following line to /path-to-file/send-to-bambu.sh "$OUTPUT_FILE"
+# add the following line in Orca Slicer –> Process Panel –> Others -> Post-processing scripts: 
+# /Users/your-path-to-script/send-to-bambu.sh "$OUTPUT_FILE"
 
 # Get the full file path from Orca
 FILE_PATH="$1"
